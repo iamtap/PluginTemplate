@@ -1,0 +1,6 @@
+name: PluginTemplate
+version: '${project.version}'
+main: me.michadev.plugintemplate.PluginTemplate
+api-version: 1.18
+authors: [ michadev ]
+description: A nice template for developing simple spigot plugins with ease.
